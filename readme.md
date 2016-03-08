@@ -5,3 +5,5 @@ I update this with RBI provided [List of NEFT enabled bank branches (Consolidate
 **Last updated - Jan 12th, 2016**
 
 [https://github.com/bhavyanshu/indian-bank-ifsc-branch-database-sql](https://github.com/bhavyanshu/indian-bank-ifsc-branch-database-sql)
+
+Contact : [https://twitter.com/pytacular](@pytacular)
